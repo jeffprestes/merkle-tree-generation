@@ -10,7 +10,7 @@ import (
 	"os"
 	"sync"
 
-	merkletree "github.com/jeffprestes/merkle-tree-generation/multilevelmktree"
+	merkletree "github.com/pycckuu/merkle-tree-generation/src"
 	"github.com/schollz/progressbar/v3"
 )
 
